@@ -54,7 +54,7 @@
             <textarea rows="4" cols="50" class="form-control" placeholder="Message" name="message" style="resize: none"></textarea> 
         </div>
         
-        <input type="file" name="attachment" style="margin-bottom: 20px"/>
+        <label>attachment<input type="file" name="attachment" style="margin-bottom: 20px"/><label>
         
         <div class="form-group">
             <button type="submit" class="btn btn-primary btn-block">Send</button>
